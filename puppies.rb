@@ -6,6 +6,7 @@ def no_puppies
     puts "Well done, Rachel!"
   end
 end
+
 puts no_puppies
   
 
