@@ -47,9 +47,8 @@ puts some_puppies
 def new_animal
   p= 5
   c= 8
-  if p = 0
+  if p = 0 || c = 0
     puts "Good Job!"
-    elsif c = 0
   else
     puts "Slow Down Rachel!"
   end
